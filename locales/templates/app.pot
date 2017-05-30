@@ -17,17 +17,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#. Label used for buttons, e.g. in dialogs
+#. Preheader text (only displayed https://www.campaignmonitor.com/assets/uploads/2015/08/preheader-text-on-mobile.png )
 msgctxt "action_cancel"
 msgid "Cancel"
 msgstr ""
 
-#. Label used for buttons, e.g. in dialogs
+#. Preheader text (only displayed https://www.campaignmonitor.com/assets/uploads/2015/08/preheader-text-on-mobile.png )
 msgctxt "action_ok"
 msgid "OK"
 msgstr ""
 
-#. This text is shown in the URL bar when it's empty
+#. Preheader text (only displayed https://www.campaignmonitor.com/assets/uploads/2015/08/preheader-text-on-mobile.png )
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
 msgstr ""

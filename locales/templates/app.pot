@@ -22,7 +22,7 @@ msgctxt "action_cancel"
 msgid "Cancel"
 msgstr ""
 
-#. Preheader text (only displayed https://www.campaignmonitor.com/assets/uploads/2015/08/preheader-text-on-mobile.png )
+#. Preheader text (only displayed https://people-mozilla.org/~npark/Focus_Screenshot/sr/images/phoneScreenshots/BrowserViewMenu_1495855198102.png )
 msgctxt "action_ok"
 msgid "OK"
 msgstr ""
